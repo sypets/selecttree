@@ -12,4 +12,10 @@ This backports some changes which did not get backported for version
 Changes
 =======
 
-*  Add (English) language labels and translations for selectTree
+*  Add (English) language labels and translations for selectTree (includes
+   languages Danish, French, German ...)
+
+
+.. image:: Documentation/_images/selecttree_french.png
+
+
