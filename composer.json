@@ -18,7 +18,7 @@
 		}
 	],
 	"support": {
-		"docs": "",
+		"docs": "https://github.com/sypets/selecttree/blob/main/README.rst",
 		"issues": "https://github.com/sypets/selecttree/issues",
 		"source": "https://github.com/sypets/selecttree"
 	},
