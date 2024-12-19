@@ -1,0 +1,54 @@
+{
+	"name": "sypets/selecttree",
+	"type": "typo3-cms-extension",
+	"description": "Backport optimizations for selectTree TCA renderType to TYPO3 versions < v13",
+	"license": ["GPL-2.0-or-later"],
+	"keywords": [
+		"TYPO3",
+		"TYPO3 extension",
+		"backend",
+		"TCA",
+		"selectTree"
+	],
+	"authors": [
+		{
+			"name": "Sybille Peters",
+			"email": "sypets@gmx.de",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"docs": "",
+		"issues": "https://github.com/sypets/selecttree/issues",
+		"source": "https://github.com/sypets/selecttree"
+	},
+	"config": {
+		"sort-packages": true,
+		"vendor-dir": ".Build/vendor",
+		"bin-dir": ".Build/bin",
+		"allow-plugins": {
+			"typo3/cms-composer-installers": true,
+			"typo3/class-alias-loader": true
+		}
+	},
+	"require": {
+		"php": "^8.1",
+		"typo3/cms-backend": "^12.4.1",
+		"typo3/cms-core": "^12.4.1",
+		"typo3/cms-fluid": "^12.4.1"
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "selecttree",
+			"web-dir": ".Build/Web"
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"Sypets\\Selecttree\\": "Classes/"
+		}
+	},
+	"scripts": {
+
+	}
+}

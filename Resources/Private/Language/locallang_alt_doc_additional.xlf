@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" datatype="plaintext"
+		  original="EXT:backend/Resources/Private/Language/locallang_alt_doc.xlf" date="2024-19-14T20:22:33Z"
+		  product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="tcatree.findItem">
+				<source>Filter by item</source>
+			</trans-unit>
+			<trans-unit id="tcatree.expandAll">
+				<source>Expand all</source>
+			</trans-unit>
+			<trans-unit id="tcatree.collapseAll">
+				<source>Collapse all</source>
+			</trans-unit>
+			<trans-unit id="tcatree.toggleHideUnchecked">
+				<source>Toggle hide unchecked</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
