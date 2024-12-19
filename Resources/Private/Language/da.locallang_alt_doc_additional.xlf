@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_alt_doc.xlf" date="2011-10-17T20:22:33Z" product-name="lang" target-language="da">
+    <header/>
+    <body>
+      <trans-unit id="tcatree.findItem" approved="yes">
+        <source>Filter by item</source>
+        <target state="final">Filtrer efter element</target>
+      </trans-unit>
+      <trans-unit id="tcatree.expandAll" approved="yes">
+        <source>Expand all</source>
+        <target state="final">Udvid alle</target>
+      </trans-unit>
+      <trans-unit id="tcatree.collapseAll" approved="yes">
+        <source>Collapse all</source>
+        <target state="final">Sammenfold alle</target>
+      </trans-unit>
+      <trans-unit id="tcatree.toggleHideUnchecked" approved="yes">
+        <source>Toggle hide unchecked</source>
+        <target state="final">Skift skjul afmarkerede</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
